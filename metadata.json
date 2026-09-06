@@ -1,0 +1,6 @@
+{
+  "name": "NOVA — AI Productivity Platform",
+  "description": "Build Better. Work Smarter. NOVA is an AI-powered productivity platform that helps teams manage projects, automate repetitive tasks, and collaborate efficiently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
